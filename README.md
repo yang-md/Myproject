@@ -1,6 +1,7 @@
 # README.md
 
 ## 1. Link
+[go to my github](https://github.com/yang-md)
 
 [go to code.md](code.md)
 
